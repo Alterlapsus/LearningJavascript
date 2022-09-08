@@ -17,4 +17,4 @@ console.log('c',c);
 // console.error(x);
 // console.info(x);
 
-// console > objeto  log > metodo
+// console > objeto  log > metodo 
