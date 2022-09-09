@@ -36,4 +36,3 @@ c = 'Hola de nuevo';
 
 // console > objeto  log > metodo
 
-var miNombre = "Israel";
