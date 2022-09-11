@@ -12,6 +12,20 @@ console.log( typeof nombre);
 nombre = 123;
 console.log( typeof nombre);
 
-// booleanos 
 
+// booleano
 let esMarvel = false;
+console.log( typeof esMarvel);
+// 
+
+let edad = 35;
+console.log( typeof edad);
+
+edad = 33.0234;
+console.log( typeof edad);
+
+let superPoder; 
+console.log( typeof superPoder); // ??
+
+let soyNull = null;
+console.log( typeof soyNull); 
