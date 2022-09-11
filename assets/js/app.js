@@ -1,5 +1,5 @@
 // alert('Hola desde app.js')
-// console.log('Hola mundo');
+console.log('Hola mundo');
 
 // let a = 10;
 // let b = 20;
