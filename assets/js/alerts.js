@@ -7,4 +7,4 @@
 // const seleccion = confirm('Estás seguro de borrar esto');
 // console.log( seleccion );
 
-console.log( 'Hola' );
+// console.log( global );
