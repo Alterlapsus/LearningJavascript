@@ -16,7 +16,7 @@
 // // booleano
 // let esMarvel = false;
 // console.log( typeof esMarvel);
-// // 
+// 
 
 // let edad = 35;
 // console.log( typeof edad);
