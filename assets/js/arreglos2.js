@@ -32,3 +32,5 @@ console.log({ juegosBorrados, juegos});
 // con indexOf si sale -1 es porque no encontro el array, si sale 1 es porque encontró el array
 let metroidIndex = juegos.indexOf('Metroid');
 console.log({ metroidIndex});
+
+
