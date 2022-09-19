@@ -9,7 +9,15 @@ let personaje = {
 
     },
     trajes: ['Mark I', 'Mark V', 'Hulkbuster'],
+    direccion: {
+     zip: '10880, 90265',
+     ubicacion: 'Malibu, California',   
+    }
 };
 
-console.log(personaje);
-console.log('nombre',personaje.nombre)
+console.log(personaje );
+console.log('nombre',personaje.nombre );
+console.log('Nombre', personaje['nombre']);
+console.log('Edad', personaje.edad );
+console.log('coords',personaje.coords.lat );
+console.log('direccion', personaje.direccion );
