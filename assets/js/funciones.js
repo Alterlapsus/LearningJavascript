@@ -22,9 +22,34 @@ const saludarFlecha2 = ( nombre ) => {
 
 
 const retornoDeSaludar = saludar( 'Israel', 40, true, 'Guatemala' );
-console.log( retornoDeSaludar [0], retornoDeSaludar [1]);
+// console.log( retornoDeSaludar [0], retornoDeSaludar [1]);
 // saludar2( 'Israel' );
 
 // saludarFlecha();
 // saludarFlecha2('Israel');
 
+function sumar(a, b){
+    return a + b;
+}
+
+// transformar a función de Flecha
+
+// const sumar2 = (a,b) => {
+//     return a + b;
+// }
+
+// podemos resumir la información de la función flecha
+// esto solo aplica si tenemos un solo return
+
+const sumar2 = (a,b) =>  a + b;
+
+// function getAleatorio(){
+//     return Math.random();
+// }
+
+// convertir en una función de flecha, que no tenga llaves {}
+// y asignarle el nombre de getAleatorio2
+ 
+const getAleatorio2 = () => Math.random();
+
+console.log(getAleatorio2());
