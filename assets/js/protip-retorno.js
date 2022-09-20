@@ -56,3 +56,4 @@ const imprimePropiedades = ( {nombre, codeName, vivo,edad = 15, trajes} ) => {
 }
 
 imprimePropiedades(tony);
+
