@@ -35,7 +35,8 @@ while( carros[i] ){
 
 console.warn('Do While');
 let j = 0;
+
 do {
     console.log( carros[j]);
-    
-}while();
+    j++;
+}while(carros[j]);
