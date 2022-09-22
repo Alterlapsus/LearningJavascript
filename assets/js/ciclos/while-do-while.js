@@ -11,6 +11,9 @@ let i = 0;
 //     i++;   
 // }
 
+console.warn('While');
+
+
 // condiciones falsas son 
 
 // undefined
@@ -29,3 +32,10 @@ while( carros[i] ){
     // i = i + 1;   
     i++;   
 }
+
+console.warn('Do While');
+let j = 0;
+do {
+    console.log( carros[j]);
+    
+}while();
